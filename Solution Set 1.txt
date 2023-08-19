@@ -11,10 +11,10 @@
 -> $ cut -c2 VTCBB.txt
 
 5. Display the character from  8 Bytes.
--> $ tail -c8 VTCBB.txt
+-> $ tail -c8 
 
 6. Skip first 5 character of each line and print it.
--> $ cut -c5 VTCBB.txt
+-> $ cut -c5 
 
 7. Print only unique record of file "student.txt"
 -> $ sort -u Student.txt
